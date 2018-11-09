@@ -6,6 +6,8 @@ CheckoutPermissionConnector module provides functionality to make restrictions f
 
 ## Installation
 
+**This module is not continued at this point.**
+
 ```
 composer require spryker/checkout-permission-connector
 ```
